@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>test</title>
+<script type="text/javascript">
+
+</script>
+<style type="text/css">
+content{
+	width:1000px;margin-left:auto;margin-right:auto;border:1px solid;
+}
+leftbox{
+
+}
+rightbox{
+	
+}
+</style>
+</head>
+
+<body>
+	<div class="content"></div>
+		<div class="leftbox"></div>
+		<div class="rightbox"></div>
+</body>
+</html>
